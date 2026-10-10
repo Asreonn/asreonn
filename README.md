@@ -54,6 +54,19 @@ My toolkit is constantly evolving. Here are some of the technologies I'm profici
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [moonizer](https://github.com/Asreonn/moonizer) | Local-first CSV exploration, transformation and visualisation tool | TypeScript |
+| [godot-superpowers](https://github.com/Asreonn/godot-superpowers) | Godot 4.x automation skills for AI coding assistants | Shell, Godot |
+| [NeatPong](https://github.com/Asreonn/NeatPong) | NEAT agents learning Pong, with a visual dashboard | Python |
+| [pixel-physics-sim](https://github.com/Asreonn/pixel-physics-sim) | Real-time 2D pixel-cell physics sandbox (fluids, heat, fire) | C, SDL2 |
+| [mathgame](https://github.com/Asreonn/mathgame) | Fast-paced arithmetic roguelite | Flutter |
+| [custom-engine-space-game](https://github.com/Asreonn/custom-engine-space-game) | Top-down space mining prototype on a small custom engine | C, raylib |
+
+---
+
 ### 📊 My GitHub Activity
 
 <p align="center">
